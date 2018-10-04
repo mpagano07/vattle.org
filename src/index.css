@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.Nav {
+  background-color: rgb(29, 64, 100);
+}
+
+.Card{
+
+  margin: 10%;
+  box-shadow: 10%;
+}
+
+button.slategray{
+  background-color: rgb(29, 64, 100);
+}
+
+
+.Footer{
+  background-color: rgb(29, 64, 100);
+  position: absolute;
+  bottom:0;
+  width:100%;
+  margin-top: 2%;
+}

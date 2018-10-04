@@ -1,0 +1,30 @@
+{
+  "name": "elger4.0",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.1.2",
+    "bootstrap": "^4.1.3",
+    "card-validator": "^5.1.0",
+    "create-react-context": "^0.2.3",
+    "email-validator": "^2.0.4",
+    "mdbreact": "^4.8.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.2",
+    "react-country-region-selector": "^1.4.1",
+    "react-credit-card-input": "^1.0.15",
+    "react-credit-cards": "^0.7.0",
+    "react-dom": "^16.4.2",
+    "react-materialize": "^2.4.5",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.4.0-beta.0",
+    "react-scripts": "1.1.4",
+    "react-table": "^6.8.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
